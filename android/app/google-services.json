@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021634649432",
+    "firebase_url": "https://teste-flutter-5aad4.firebaseio.com",
+    "project_id": "teste-flutter-5aad4",
+    "storage_bucket": "teste-flutter-5aad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021634649432:android:14eb3b333ebbf23481592d",
+        "android_client_info": {
+          "package_name": "io.balta.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021634649432-5u70f96k71nqohmol19vpr7dlat4ujdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdfE6vrVKi0v-7VDMS2H7H71zww2Bp5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021634649432-5u70f96k71nqohmol19vpr7dlat4ujdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
